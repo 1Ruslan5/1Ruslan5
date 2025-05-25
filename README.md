@@ -47,5 +47,5 @@ I enjoy exploring immersive game worlds and watching well-written, high-stakes s
 ### 💬 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/ruslan-sultanov" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/></a>
+  <a href="https://linkedin.com/in/ruslan-sultanov-8a7165294" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/></a>
 </p>

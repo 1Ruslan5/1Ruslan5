@@ -31,7 +31,7 @@ Node.js, Express, NestJS, Python, FastAPI, Django, MongoDB, PostgreSQL, Redis, R
 
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslansultanov&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Ruslan5&layout=compact&theme=github_dark)
 
 ---
 

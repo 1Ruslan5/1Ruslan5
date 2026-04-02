@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 I'm a backend developer passionate about building complex and reliable systems. I enjoy solving architectural challenges and working with technologies that scale.  
-Besides backend, I'm also diving deep into DevOps — I love automating infrastructure and improving delivery pipelines.
+Besides backend, I'm also diving deep into DevOps - I love automating infrastructure and improving delivery pipelines.
 
 - ⚙️ Interested in system design, microservices, message brokers, and CI/CD
 - 💡 I value clean code, observability, and scalable infrastructure
